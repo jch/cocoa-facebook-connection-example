@@ -7,6 +7,6 @@ intercept the redirect url and parse out the access_token.
 
 ## Resources
 
-[Graph API Overview](http://developers.facebook.com/docs/api)
-[Desktop Application Authentication](http://developers.facebook.com/docs/authentication/desktop)
-[Extended Permissions](http://developers.facebook.com/docs/authentication/permissions)
+* [Graph API Overview](http://developers.facebook.com/docs/api)
+* [Desktop Application Authentication](http://developers.facebook.com/docs/authentication/desktop)
+* [Extended Permissions](http://developers.facebook.com/docs/authentication/permissions)
